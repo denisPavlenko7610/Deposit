@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deposit", "Deposit\Deposit.csproj", "{555FEA5B-9867-47E9-BFB6-611A9A30B2FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{555FEA5B-9867-47E9-BFB6-611A9A30B2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555FEA5B-9867-47E9-BFB6-611A9A30B2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555FEA5B-9867-47E9-BFB6-611A9A30B2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555FEA5B-9867-47E9-BFB6-611A9A30B2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76CB95A5-486C-420F-9AD1-49C101C55AE7}
+	EndGlobalSection
+EndGlobal
